@@ -1,0 +1,25 @@
+{
+  "name": "zeo-example",
+  "version": "0.0.1",
+  "description": "Zeo example mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/zeo-example.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "keywords": [
+    "zeo-mod"
+  ],
+  "metadata": {
+    "owner": "zeo"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/zeo-example/issues"
+  },
+  "homepage": "https://github.com/modulesio/zeo-example#readme"
+}
