@@ -11,6 +11,7 @@
     "url": "git+https://github.com/modulesio/zeo-example.git"
   },
   "author": "Avaer Kazmer <a@modules.io>",
+  "preview": "preview.png",
   "keywords": [
     "zeo-mod"
   ],
