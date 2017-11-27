@@ -11,12 +11,16 @@
     "url": "git+https://github.com/modulesio/zeo-example.git"
   },
   "author": "Avaer Kazmer <a@modules.io>",
-  "preview": "preview.png",
   "keywords": [
     "zeo-mod"
   ],
   "metadata": {
-    "owner": "zeo"
+    "owner": "zeo",
+    "preview": "preview.png",
+    "screenshots": [
+      "preview.png",
+      "preview.png"
+    ]
   },
   "license": "ISC",
   "bugs": {
